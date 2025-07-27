@@ -1,2 +1,2 @@
 hi this is a sample file to test and learn git
-changing something
+changing something  
